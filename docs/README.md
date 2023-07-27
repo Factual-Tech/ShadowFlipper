@@ -43,3 +43,12 @@ ShadowFlipper is intended for security professionals, pen-testers, and hobbyists
 - **Research and Development**: ShadowFlipper can be used by researchers and developers who are working on new technologies and systems that utilize RFID, Wi-Fi, and 2.4 GHz technologies. Its advanced features and open-source design make it a versatile tool for exploring and testing new technologies.
 - **Personal Use**: Hobbyists and enthusiasts can use ShadowFlipper to test and analyze their own systems, or to learn more about the technologies and tools used in pen-testing and security testing.
 - **Field Use**: ShadowFlipper's portable design and easy-to-use interface make it an ideal tool for testing and analysis in the field. It can be used by security professionals and pen-testers who need to perform on-the-go testing and analysis, or by hobbyists who want to take their testing and analysis to new locations and environments.
+
+## Required Modules
+
+- **NodeMCU** (ESP 8266) to control
+- **NRF24** for wireless communication
+- 0.96 **OLED screen** for display
+- **RFID sensor** for reading and writing RFID tags
+- 3 **buttons** for navigation
+- 3.7V **battery** for power supply
