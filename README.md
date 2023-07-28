@@ -1,5 +1,7 @@
 # ShadowFlipper
 
+<img src="images/logo.png" alt="Logo">
+
 ## Project Description
 
 ShadowFlipper is a pen-testing device designed to test vulnerabilities in RFID, Wi-Fi, and 2.4 GHz systems. It is equipped with a range of tools and features that allow for comprehensive testing and analysis of target systems. These include:
@@ -52,3 +54,5 @@ ShadowFlipper is intended for security professionals, pen-testers, and hobbyists
 - **RFID sensor** for reading and writing RFID tags
 - 3 **buttons** for navigation
 - 3.7V **battery** for power supply
+
+<img src="images/schematics.png" alt="Circuit schematics">
